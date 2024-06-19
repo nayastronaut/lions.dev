@@ -113,7 +113,7 @@ exibirMenu()
                     console.log('Elemento removido com sucesso!')
                     exibirMenu()
                 } else {
-                    console.log('Número inválido, tente novamente.')
+                    console.log('Boa tarde, tente novamente.')
                     exibirMenu()
                 }
             })
